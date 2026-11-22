@@ -1,0 +1,6 @@
+{
+  "name": "CraftRank",
+  "description": "Unlimited Etsy SEO keyword research, 13-tag optimizer, competitor tracker, niche discovery, and profit calculator with zero subscriptions or credits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
